@@ -64,7 +64,7 @@ return [
 
     ],
 
-    'currency' => env('DEFAULT_CURRENCY', 'usd'),
-    'currency_symbol' => env('CURRENCY_SYMBOL', '$')
+    'currency' => env('DEFAULT_CURRENCY', 'naira'),
+    'currency_symbol' => env('CURRENCY_SYMBOL', '₦')
 
 ];
