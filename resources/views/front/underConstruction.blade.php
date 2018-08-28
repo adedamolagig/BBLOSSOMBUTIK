@@ -70,18 +70,10 @@
 		   		<div class="col-twelve">
 
 		   			<div id="counter">
-		   				<!-- <div class="half">
-		   					<span>29 <sup>days</sup></span> 
-		 						<span>23 <sup>hours</sup></span>
-		   				</div>
-							<div class="half">
-								<span>50 <sup>mins</sup></span>
-		 						<span>33 <sup>secs</sup></span>
-		 					</div>  -->
-			 					<div class="half">
-			 						<span>Please contact</span>
-			 						<h1>+2347038625309</h1>
-			 					</div>
+	 					<div class="half">
+	 						<span>Please contact</span>
+	 						<h1>+2347038625309</h1>
+	 					</div>
 		   			</div>
 
 			  			<div class="bottom-text">
