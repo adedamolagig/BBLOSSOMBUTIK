@@ -15,6 +15,11 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /**
+ *underconstruction Route
+ */
+ Route::get('/underConstruction', 'underConstructionController@underConstruction')->name('underConstruction');
+
+/**
  * Admin routes
  */
 Route::namespace('Admin')->group(function () {
@@ -102,3 +107,5 @@ Route::namespace('Front')->group(function () {
     Route::get("search", 'ProductController@search')->name('search.product');
     Route::get("{product}", 'ProductController@show')->name('front.get.product');
 });
+
+
