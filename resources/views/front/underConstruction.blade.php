@@ -8,7 +8,7 @@
    ================================================== -->
    <meta charset="utf-8">
 	<title>BBlossom Butik UnderConstruction</title>
-	<meta name="description" content="BBlossomButik, clothing">  
+	<meta name="description" content="BBlossomButik, clothing, Boutique, Fashion, Lifestyle, Luxury Lifestyle">  
 	<meta name="author" content="BBlossomButik">
 
    <!-- mobile specific metas
