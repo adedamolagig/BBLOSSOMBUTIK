@@ -38,7 +38,7 @@
                         <div class="form-group">
                             <label for="price">Price <span class="text-danger">*</span></label>
                             <div class="input-group">
-                                <span class="input-group-addon">PHP</span>
+                                <span class="input-group-addon">Naira</span>
                                 <input type="text" name="price" id="price" placeholder="Price" class="form-control" value="{{ old('price') }}">
                             </div>
                         </div>
