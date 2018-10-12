@@ -168,6 +168,12 @@ return [
         App\Providers\GlobalTemplateServiceProvider::class,
         App\Providers\RepositoryServiceProvider::class,
         Laratrust\LaratrustServiceProvider::class,
+
+
+        /*
+         * Intervention Package for image resize..
+         */
+        Intervention\Image\ImageServiceProvider::class,
     ],
 
     /*
@@ -218,6 +224,11 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
         'Cart' => Gloudemans\Shoppingcart\Facades\Cart::class,
         'PDF' => Barryvdh\DomPDF\Facade::class,
+
+        /*
+         * Aliase for image intervention
+         */
+        'Image' => Intervention\Image\Facades\Image::class,
 
     ],
 
